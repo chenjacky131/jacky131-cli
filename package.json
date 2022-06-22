@@ -1,0 +1,26 @@
+{
+  "name": "jacky131-cli",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "jc-cli": "./bin/index.js"
+  },
+  "author": "jacky131",
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "4.1.2",
+    "commander": "^9.3.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.4",
+    "ora": "^5.4.1"
+  },
+  "__npminstall_done": true,
+  "_from": "jacky131-cli@1.0.0",
+  "_resolved": "https://registry.npmmirror.com/jacky131-cli/-/jacky131-cli-1.0.0.tgz"
+}
